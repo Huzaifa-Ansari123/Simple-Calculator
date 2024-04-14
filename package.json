@@ -1,0 +1,22 @@
+{
+  "name": "zaif-simple-calculator",
+  "version": "1.0.2",
+  "description": "A Simple-Calculator for the easy calculations.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "zaif-simple-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M.Huzaifa Ansari",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "zaif-simple-calculator": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
